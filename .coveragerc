@@ -1,0 +1,5 @@
+[run]
+source = trytond.modules.library
+
+[report]
+omit = */tests/*, */setup.py
